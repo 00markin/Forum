@@ -18,7 +18,7 @@ const Navigation = () => {
         }
       >
         <World />
-        <span>Stack Overflow</span>
+        <span>Markin Overflow</span>
       </NavItem>
 
       <NavItem href="/tags" selected={router.pathname == '/tags'}>
