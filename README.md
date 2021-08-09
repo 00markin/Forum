@@ -24,10 +24,10 @@ This project is a simplified a full stack clone of Stackoverflow. I wrote it to 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/salihozdemir/stackoverflow-clone
+$ git clone https://github.com/00markin/Forum
 
 # Go into the repository
-$ cd stackoverflow-clone
+$ cd Forum
 
 # Go into server
 $ cd server
@@ -80,7 +80,7 @@ $ yarn test
 
 - 
         # Go into the repository
-        $ cd stackoverflow-clone
+        $ cd Forum
 
         # Heroku Setup
         $ npm install -g heroku
