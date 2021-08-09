@@ -1,5 +1,5 @@
 .container {
-  display: flex;
+  display: none; /* default == flex */
   flex-wrap: wrap;
   justify-content: flex-end;
 

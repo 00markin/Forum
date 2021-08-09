@@ -9,7 +9,7 @@ const Ask = () => {
   return (
     <div>
       <Head>
-        <title>Ask a Question - Clone of Stackoverflow</title>
+        <title>Ask3d.me - A new way to solve your questions!</title>
       </Head>
 
       <Header />
