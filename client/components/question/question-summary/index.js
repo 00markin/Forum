@@ -27,7 +27,7 @@ const QuestionSummary = ({
             <Tag key={tag}>{tag}</Tag>
           ))}
         </div>
-        {/* <div className={styles.userDetails}>
+        { <div className={styles.userDetails}>
           <Link href="/users/[user]" as={`/users/${author.username}`}>
             <a>
               <img
@@ -47,7 +47,7 @@ const QuestionSummary = ({
               <a>{author.username}</a>
             </Link>
           </div>
-        </div> */}
+        </div> }
       </div>
     </div>
   )
